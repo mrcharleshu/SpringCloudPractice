@@ -16,7 +16,7 @@
 
     <properties>
         <skywalking.version>6.0.0-GA</skywalking.version>
-        <elasticsearch.version>6.7.0</elasticsearch.version>
+        <elasticsearch.version>6.8.15</elasticsearch.version>
     </properties>
 
     <dependencies>
